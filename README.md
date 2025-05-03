@@ -1,4 +1,4 @@
-- I’m interested in robotics and neuromechanics and I'm currently an assistant professor at the University of California, Riverside where I direct the Bionic Systems Laboratory.
+- I’m interested in robotics and neuromechanics and I'm an assistant professor at the University of California, Riverside where I direct the Bionic Systems Laboratory.
 - jonathan.realmuto@ucr.edu
 - https://intra.engr.ucr.edu/~jrealmuto/
 
